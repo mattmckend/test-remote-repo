@@ -1,1 +1,2 @@
 This is the first line for test.txt
+This is the 2nd line of the doc
